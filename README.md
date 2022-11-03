@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# User Application Demo 
+
+Enter a user and user's age and see a list of users rendered on the webpage. 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
